@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tetris 24/06" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tetris 24/06" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tetris 24/06" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="inicio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inicio.h" />
+		<Unit filename="jogar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jogar.h" />
+		<Unit filename="limpar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="limpar.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="linhas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linhas.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="pecas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pecas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="pontuacao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pontuacao.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="rodar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rodar.h" />
+		<Unit filename="tabuleiro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tabuleiro.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

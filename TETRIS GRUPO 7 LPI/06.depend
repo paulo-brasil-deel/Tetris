@@ -1,0 +1,492 @@
+# depslib dependency file v1.0
+1498329474 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"apagarRastro.h"
+	"apagarTabuleiro.h"
+	"rotacionarD.h"
+
+1498329044 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\apagarrastro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329197 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\apagartabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329299 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\rotacionard.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498328920 c:\users\hugos\desktop\tetris lpi\06\tetris 24\apagarrastro.h
+
+1498329187 c:\users\hugos\desktop\tetris lpi\06\tetris 24\apagartabuleiro.h
+
+1498329391 c:\users\hugos\desktop\tetris lpi\06\tetris 24\rotacionard.h
+
+1498329485 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\rotacionare.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329623 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\limparpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329806 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\escolherpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329917 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\desenharpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498330076 source:c:\users\hugos\desktop\tetris lpi\06\tetris 24\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329044 source:c:\users\hugos\desktop\tetris 24\apagarrastro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329197 source:c:\users\hugos\desktop\tetris 24\apagartabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329917 source:c:\users\hugos\desktop\tetris 24\desenharpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329806 source:c:\users\hugos\desktop\tetris 24\escolherpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498330076 source:c:\users\hugos\desktop\tetris 24\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329623 source:c:\users\hugos\desktop\tetris 24\limparpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498330245 source:c:\users\hugos\desktop\tetris 24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"apagarRastro.h"
+	"apagarTabuleiro.h"
+	"rotacionarD.h"
+	"rotacionarE.h"
+	"escolherPeca.h"
+	"limparPeca.h"
+	"desenharPeca.h"
+	"jogar.h"
+
+1498328920 c:\users\hugos\desktop\tetris 24\apagarrastro.h
+
+1498329187 c:\users\hugos\desktop\tetris 24\apagartabuleiro.h
+
+1498329391 c:\users\hugos\desktop\tetris 24\rotacionard.h
+
+1498329623 c:\users\hugos\desktop\tetris 24\rotacionare.h
+
+1498329806 c:\users\hugos\desktop\tetris 24\escolherpeca.h
+
+1498329623 c:\users\hugos\desktop\tetris 24\limparpeca.h
+
+1498330076 c:\users\hugos\desktop\tetris 24\desenharpeca.h
+
+1498330076 c:\users\hugos\desktop\tetris 24\jogar.h
+
+1498329299 source:c:\users\hugos\desktop\tetris 24\rotacionard.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498329485 source:c:\users\hugos\desktop\tetris 24\rotacionare.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499722876 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\apagarrastro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499728064 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\apagartabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499723256 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\desenharpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499725337 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\escolherpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499728548 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499722326 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\limparpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499729062 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"apagarRastro.h"
+	"apagarTabuleiro.h"
+	"rotacionarD.h"
+	"rotacionarE.h"
+	"escolherPeca.h"
+	"limparPeca.h"
+	"desenharPeca.h"
+	"jogar.h"
+
+1498316146 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\apagarrastro.h
+
+1498316146 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\apagartabuleiro.h
+
+1498316144 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\rotacionard.h
+
+1498316144 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\rotacionare.h
+
+1498316146 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\escolherpeca.h
+
+1498316144 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\limparpeca.h
+
+1498316146 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\desenharpeca.h
+
+1498316146 c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\jogar.h
+
+1499725200 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\rotacionard.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1498316144 source:c:\users\usuario\documents\tetris organizado-20170624t190214z-001\tetris organizado\rotacionare.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499779022 source:c:\users\aluno.poli\desktop\tetris organizado\apagartabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499723256 source:c:\users\aluno.poli\desktop\tetris organizado\desenharpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499725337 source:c:\users\aluno.poli\desktop\tetris organizado\escolherpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499722326 source:c:\users\aluno.poli\desktop\tetris organizado\limparpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499779022 source:c:\users\aluno.poli\desktop\tetris organizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"apagarRastro.h"
+	"apagarTabuleiro.h"
+	"escolherPeca.h"
+	"limparPeca.h"
+	"desenharPeca.h"
+	"jogar.h"
+	"rodar.h"
+
+1498316146 c:\users\aluno.poli\desktop\tetris organizado\apagarrastro.h
+
+1499774891 c:\users\aluno.poli\desktop\tetris organizado\apagartabuleiro.h
+
+1499774891 c:\users\aluno.poli\desktop\tetris organizado\rotacionard.h
+
+1498316144 c:\users\aluno.poli\desktop\tetris organizado\rotacionare.h
+
+1498316146 c:\users\aluno.poli\desktop\tetris organizado\escolherpeca.h
+
+1498316144 c:\users\aluno.poli\desktop\tetris organizado\limparpeca.h
+
+1499774890 c:\users\aluno.poli\desktop\tetris organizado\desenharpeca.h
+
+1499779022 c:\users\aluno.poli\desktop\tetris organizado\jogar.h
+
+1499725200 source:c:\users\aluno.poli\desktop\tetris organizado\rotacionard.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499778555 source:c:\users\aluno.poli\desktop\tetris organizado\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499775303 source:c:\users\aluno.poli\desktop\tetris organizado\rodar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499775303 c:\users\aluno.poli\desktop\tetris organizado\rodar.h
+
+1499778540 source:c:\users\aluno.poli\desktop\tetris organizado\menu.c
+
+1499803885 source:c:\users\mestre fuda\desktop\tetris com menu\apagartabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499765296 source:c:\users\mestre fuda\desktop\tetris com menu\desenharpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499765296 source:c:\users\mestre fuda\desktop\tetris com menu\escolherpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499765306 source:c:\users\mestre fuda\desktop\tetris com menu\limparpeca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499815347 source:c:\users\mestre fuda\desktop\tetris com menu\menu.c
+
+1499815347 source:c:\users\mestre fuda\desktop\tetris com menu\rodar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499817497 source:c:\users\mestre fuda\desktop\tetris com menu\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499806805 source:c:\users\mestre fuda\desktop\tetris com menu\inicio.c
+	<stdlib.h>
+
+1499815347 source:c:\users\mestre fuda\desktop\tetris com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"limpar.h"
+	"linhas.h"
+	"menu.h"
+	"pecas.h"
+	"rodar.h"
+	"tabuleiro.h"
+	"jogar.h"
+	"rodar.h"
+	"inicio.h"
+	"pontuacao.h"
+
+1499765296 c:\users\mestre fuda\desktop\tetris com menu\apagarrastro.h
+
+1499765296 c:\users\mestre fuda\desktop\tetris com menu\apagartabuleiro.h
+
+1499765306 c:\users\mestre fuda\desktop\tetris com menu\escolherpeca.h
+
+1499765306 c:\users\mestre fuda\desktop\tetris com menu\limparpeca.h
+
+1499765304 c:\users\mestre fuda\desktop\tetris com menu\desenharpeca.h
+
+1499765306 c:\users\mestre fuda\desktop\tetris com menu\jogar.h
+
+1499765312 c:\users\mestre fuda\desktop\tetris com menu\rodar.h
+
+1499803626 c:\users\mestre fuda\desktop\tetris com menu\inicio.h
+
+1499806805 source:c:\users\mestre fuda\desktop\tetris com menu\limpar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499807305 source:c:\users\mestre fuda\desktop\tetris com menu\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499815347 source:c:\users\mestre fuda\desktop\tetris com menu\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499817497 source:c:\users\mestre fuda\desktop\tetris com menu\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499805630 c:\users\mestre fuda\desktop\tetris com menu\limpar.h
+
+1499805630 c:\users\mestre fuda\desktop\tetris com menu\linhas.h
+
+1499765308 c:\users\mestre fuda\desktop\tetris com menu\menu.h
+
+1499805630 c:\users\mestre fuda\desktop\tetris com menu\pecas.h
+
+1499817497 c:\users\mestre fuda\desktop\tetris com menu\tabuleiro.h
+
+1499815796 c:\users\mestre fuda\desktop\tetris com menu\pontuacao.h
+
+1499815796 source:c:\users\mestre fuda\desktop\tetris com menu\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1499863765 source:c:\users\eduardo\desktop\tetris com menu\inicio.c
+	<stdlib.h>
+	"inicio.h"
+
+1499863336 source:c:\users\eduardo\desktop\tetris com menu\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499847830 source:c:\users\eduardo\desktop\tetris com menu\limpar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499847832 source:c:\users\eduardo\desktop\tetris com menu\linhas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499847832 source:c:\users\eduardo\desktop\tetris com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"limpar.h"
+	"linhas.h"
+	"menu.h"
+	"pecas.h"
+	"rodar.h"
+	"tabuleiro.h"
+	"jogar.h"
+	"rodar.h"
+	"inicio.h"
+	"pontuacao.h"
+
+1499847832 c:\users\eduardo\desktop\tetris com menu\limpar.h
+
+1499847832 c:\users\eduardo\desktop\tetris com menu\linhas.h
+
+1499847832 c:\users\eduardo\desktop\tetris com menu\menu.h
+
+1499847832 c:\users\eduardo\desktop\tetris com menu\pecas.h
+
+1499847834 c:\users\eduardo\desktop\tetris com menu\rodar.h
+
+1499847836 c:\users\eduardo\desktop\tetris com menu\tabuleiro.h
+
+1499847832 c:\users\eduardo\desktop\tetris com menu\jogar.h
+
+1499847832 c:\users\eduardo\desktop\tetris com menu\inicio.h
+
+1499863041 c:\users\eduardo\desktop\tetris com menu\pontuacao.h
+
+1499864068 source:c:\users\eduardo\desktop\tetris com menu\menu.c
+
+1499847832 source:c:\users\eduardo\desktop\tetris com menu\pecas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499863835 source:c:\users\eduardo\desktop\tetris com menu\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"inicio.h"
+
+1499847834 source:c:\users\eduardo\desktop\tetris com menu\rodar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1499847836 source:c:\users\eduardo\desktop\tetris com menu\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
